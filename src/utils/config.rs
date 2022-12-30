@@ -1,0 +1,1 @@
+pub const FILE_PATH : &str = "./data/accounts.json";

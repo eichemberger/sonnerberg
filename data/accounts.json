@@ -1,0 +1,20 @@
+[
+  {
+    "login": "germaneichemberger",
+    "password": "eldummy",
+    "site": "gmail",
+    "url": null
+  },
+  {
+    "login": "german@twitter.com",
+    "password": "twitter",
+    "site": "twitter",
+    "url": null
+  },
+  {
+    "login": "test@gmail.com",
+    "password": "test",
+    "site": "don-test",
+    "url": "test.com.ar"
+  }
+]
