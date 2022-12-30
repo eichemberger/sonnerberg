@@ -1,6 +1,6 @@
 use std::process::ExitCode;
 use std::env; 
-use crate::service::account_service::{get_all_accounts, list_sites, find_by_site};
+use crate::service::account_service::{list_sites, find_by_site};
 use crate::utils::messages::print_account;
 
 pub fn execute_command() -> ExitCode  {
